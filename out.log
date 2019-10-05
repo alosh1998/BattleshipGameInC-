@@ -1,0 +1,70 @@
+Microsoft (R) Visual C# Compiler version 4.8.3761.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+ProjectTemplate\src\DeploymentController.cs(14,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'DeploymentController'
+src\DeploymentController.cs(14,14): (Location of symbol related to previous error)
+ProjectTemplate\src\DiscoveryController.cs(13,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'DiscoveryController'
+src\DiscoveryController.cs(13,14): (Location of symbol related to previous error)
+ProjectTemplate\src\EndingGameController.cs(15,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'EndingGameController'
+src\EndingGameController.cs(15,14): (Location of symbol related to previous error)
+ProjectTemplate\src\GameController.cs(15,21): error CS0101: The namespace '<global namespace>' already contains a definition for 'GameController'
+src\GameController.cs(15,21): (Location of symbol related to previous error)
+ProjectTemplate\src\GameLogic.cs(9,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'GameLogic'
+src\GameLogic.cs(9,14): (Location of symbol related to previous error)
+ProjectTemplate\src\GameResources.cs(10,21): error CS0101: The namespace '<global namespace>' already contains a definition for 'GameResources'
+src\GameResources.cs(10,21): (Location of symbol related to previous error)
+ProjectTemplate\src\GameState.cs(14,13): error CS0101: The namespace '<global namespace>' already contains a definition for 'GameState'
+src\GameState.cs(14,13): (Location of symbol related to previous error)
+ProjectTemplate\src\HighScoreController.cs(17,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'HighScoreController'
+src\HighScoreController.cs(17,14): (Location of symbol related to previous error)
+ProjectTemplate\src\HighScoreController.cs(26,17): error CS0102: The type 'HighScoreController' already contains a definition for 'Score'
+src\HighScoreController.cs(26,17): (Location of symbol related to previous error)
+ProjectTemplate\src\MenuController.cs(16,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'MenuController'
+src\MenuController.cs(16,14): (Location of symbol related to previous error)
+ProjectTemplate\src\UtilityFunctions.cs(12,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'UtilityFunctions'
+src\UtilityFunctions.cs(12,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIHardPlayer.cs(15,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'AIHardPlayer'
+src\Model\AIHardPlayer.cs(15,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIHardPlayer.cs(22,18): error CS0102: The type 'AIHardPlayer' already contains a definition for 'Target'
+src\Model\AIHardPlayer.cs(22,18): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIHardPlayer.cs(73,15): error CS0102: The type 'AIHardPlayer' already contains a definition for 'AIStates'
+src\Model\AIHardPlayer.cs(73,15): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIMediumPlayer.cs(13,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'AIMediumPlayer'
+src\Model\AIMediumPlayer.cs(13,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIMediumPlayer.cs(20,15): error CS0102: The type 'AIMediumPlayer' already contains a definition for 'AIStates'
+src\Model\AIMediumPlayer.cs(20,15): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIOption.cs(11,13): error CS0101: The namespace '<global namespace>' already contains a definition for 'AIOption'
+src\Model\AIOption.cs(11,13): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIPlayer.cs(13,23): error CS0101: The namespace '<global namespace>' already contains a definition for 'AIPlayer'
+src\Model\AIPlayer.cs(13,23): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AIPlayer.cs(20,18): error CS0102: The type 'AIPlayer' already contains a definition for 'Location'
+src\Model\AIPlayer.cs(20,18): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\AttackResult.cs(11,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'AttackResult'
+src\Model\AttackResult.cs(11,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\BattleShipsGame.cs(14,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'BattleShipsGame'
+src\Model\BattleShipsGame.cs(14,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\BattleShipsGame.cs(23,23): error CS0102: The type 'BattleShipsGame' already contains a definition for 'AttackCompletedHandler'
+src\Model\BattleShipsGame.cs(23,23): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\Direction.cs(11,13): error CS0101: The namespace '<global namespace>' already contains a definition for 'Direction'
+src\Model\Direction.cs(11,13): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\ISeaGrid.cs(12,18): error CS0101: The namespace '<global namespace>' already contains a definition for 'ISeaGrid'
+src\Model\ISeaGrid.cs(12,18): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\Player.cs(12,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'Player'
+src\Model\Player.cs(12,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\ResultOfAttack.cs(11,13): error CS0101: The namespace '<global namespace>' already contains a definition for 'ResultOfAttack'
+src\Model\ResultOfAttack.cs(11,13): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\SeaGrid.cs(16,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'SeaGrid'
+src\Model\SeaGrid.cs(16,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\SeaGridAdapter.cs(12,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'SeaGridAdapter'
+src\Model\SeaGridAdapter.cs(12,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\Ship.cs(16,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'Ship'
+src\Model\Ship.cs(16,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\ShipName.cs(12,13): error CS0101: The namespace '<global namespace>' already contains a definition for 'ShipName'
+src\Model\ShipName.cs(12,13): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\Tile.cs(12,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'Tile'
+src\Model\Tile.cs(12,14): (Location of symbol related to previous error)
+ProjectTemplate\src\Model\TileView.cs(11,13): error CS0101: The namespace '<global namespace>' already contains a definition for 'TileView'
+src\Model\TileView.cs(11,13): (Location of symbol related to previous error)
